@@ -1,0 +1,19 @@
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Form1.resources
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+C:\Users\Aleksandar\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csprojAssemblyReference.cache
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csprojAssemblyReference.cache
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.GenerateResource.cache
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+C:\Users\beloh\Desktop\Space Invaders\Space Invaders\obj\Debug\SpaceInvaders.Form1.resources
